@@ -1,7 +1,7 @@
 # CommonLit Readability Prize
 
 CommonLit, Inc., is a nonprofit education technology organization serving over 20 million teachers and students with free digital reading and writing lessons for grades 3-12.
-With Georgia State University, an R1 public research university launched this Kaggle competition on May 3, 2021 to improve redability rating methods.
+With Georgia State University, an R1 public research university launched this <a href="https://www.kaggle.com/competitions/commonlitreadabilityprize/overview">Kaggle competition</a> on May 3, 2021 to improve redability rating methods.
 
 We will be predicting the reading ease of excerpts from literature.
 
