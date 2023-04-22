@@ -18,3 +18,23 @@ We will be predicting the reading ease of excerpts from literature.
 - excerpt - text to predict reading ease of
 - target - reading ease
 - standard_error - measure of spread of scores among multiple raters for each excerpt. Not included for test data.
+
+# BERT 
+
+In this project, BERT model is used to  predict the readability of text samples BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art language model developed by Google. It is a deep learning model that is able to capture the context of words in a sentence in both forward and backward directions. This allows the model to understand the relationships between words in a sentence and produce highly accurate predictions.
+
+![image](https://user-images.githubusercontent.com/91772980/233765519-7ad5be1e-5f4b-4836-82f4-f5c7a2eee5eb.png)
+
+
+In this project, we used pre-trained BERT models such as BERT-Base, BERT-Large, and BERT-Base-Uncased to fine-tune on the CommonLit Readability Prize dataset. The fine-tuning process involves taking the pre-trained BERT model and training it on the specific task of predicting the readability of text samples in the CommonLit Readability Prize dataset. The fine-tuned BERT model is then able to make predictions on new text samples.
+## Accuracy Metric
+
+The accuracy metric used in this project is Mean Squared Error (MSE). The MSE is a measure of how well a regression model is able to predict the outcome variable. It is calculated by taking the average of the squared differences between the predicted values and the actual values. A lower MSE indicates better performance of the model.
+
+## Loss Functions
+
+The loss function is a measure of how well the model is able to predict the outcome variable during the training process. In this project, the loss function used is Mean Squared Error (MSE) as well. During training, the model is optimized to minimize the MSE loss.
+
+
+
+Overall, this project demonstrates the power of BERT models in predicting the readability of text samples and how they can be fine-tuned to achieve high accuracy on a specific task.
