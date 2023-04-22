@@ -47,4 +47,10 @@ The accuracy metric used in this project is Mean Squared Error (MSE). The MSE is
 The loss function is a measure of how well the model is able to predict the outcome variable during the training process. In this project, the loss function used is Mean Squared Error (MSE) as well. During training, the model is optimized to minimize the MSE loss.
 
 ## Output
+<table>
+  <tr>
+    <td><img src="loss.png" alt="Image 1"></td>
+    <td><img src="mse.png" alt="Image 2"></td>
+  </tr>
+</table>
 
