@@ -49,8 +49,8 @@ The loss function is a measure of how well the model is able to predict the outc
 ## Output
 <table>
   <tr>
-    <td><img src="loss.png" alt="Image 1"></td>
-    <td><img src="mse.png" alt="Image 2"></td>
+    <td><img src="./readme_media/loss.png" alt="Image 1"></td>
+    <td><img src="./readme_media/mse.png" alt="Image 2"></td>
   </tr>
 </table>
 
